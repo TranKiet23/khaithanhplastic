@@ -691,11 +691,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding:0
 
 }
-.container-item ul {
+.container-item-ul {
   list-style-type: none;
-  padding: 12px;
+  padding: 10px;
 }
-.container-item li {
+.container-item-li{
   background-color: #eaf2f8;
   padding: 10px;
   border-radius: 5px;
@@ -712,7 +712,6 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0;
 
 }
-
 
 #call-to-action .cta-title {
   color: #fff;
